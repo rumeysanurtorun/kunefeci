@@ -1,0 +1,25 @@
+.makale,
+.iletisim {
+    margin: auto;
+    padding: 15px;
+    max-width: 900px;
+    border-radius: 10px;
+}
+
+.blog-title {
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.makale-resmi img {
+    width: 90%;
+    height: 400px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 25px;
+}
+
+.iletisim {
+    margin-top: 20px;
+}

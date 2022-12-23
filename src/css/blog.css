@@ -1,0 +1,87 @@
+.blog-post {
+    background-color: #79d9e87a;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.container {
+    padding: 0;
+}
+
+.blog-main .rounded {
+    border-radius: 20px !important;
+}
+
+.blog-main .icerik {
+    padding: 10px;
+}
+
+.blog-main-image {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px 0 0 15px;
+}
+
+.blog-main-devam {
+    margin-top: 175px;
+}
+
+.blog-main-baslik {
+    font-weight: 700;
+}
+
+.blog-main-baslik a {
+    text-decoration: none;
+}
+
+.blog-main {
+    background-color: #e8dcc6;
+    border-radius: 15px;
+}
+
+.blog-main-flex {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+}
+
+/* blog-post */
+.flex {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+
+.tarih {
+    position: absolute;
+    width: 50px;
+    height: 60px;
+    background-color: #e5fe55;
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.resim img {
+    height: 250px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.gun {
+    font-weight: bolder;
+}
+
+.baslik a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 5px;
+}
